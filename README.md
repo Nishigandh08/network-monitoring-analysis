@@ -1,4 +1,4 @@
-# network-monitoring-analysis
+# Network-Monitoring-and-Performance-Analysis
 Network Monitoring and Performance Analysis using Cisco Packet Tracer
 # 🌐 Network Monitoring and Performance Analysis
 
